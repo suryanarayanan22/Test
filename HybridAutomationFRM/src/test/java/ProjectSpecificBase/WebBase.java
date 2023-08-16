@@ -11,18 +11,26 @@ import java.time.Duration;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Collections;
+import java.util.Optional;
+import java.util.function.Consumer;
+import java.util.ArrayList;
 
+import org.openqa.selenium.JavascriptException;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.devtools.DevTools;
+import org.openqa.selenium.devtools.*;
+import org.openqa.selenium.devtools.events.DomMutationEvent;
+import org.openqa.selenium.devtools.v110.log.Log;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.logging.HasLogEvents;
 import org.openqa.selenium.manager.SeleniumManager;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -36,6 +44,7 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
+import static org.openqa.selenium.devtools.events.CdpEventTypes.domMutation;
 
 import com.github.javafaker.Faker;
 
@@ -55,6 +64,9 @@ public final int WAIT_FOR_ELEMENT_TIMEOUT = 2;
 public  static WebDriver driver1;
 public WebDriverWait webDriverWait;
 public Actions actions;
+public List<DomMutationEvent> mutationsList;
+public List<JavascriptException> jsExceptionsList;
+public List<String> consoleMessages;
 
 @BeforeSuite
 public void Setup() {
@@ -108,6 +120,27 @@ public void reportExecution() {
 		if ("Remote".equalsIgnoreCase(basetest.getConfigurations("ChoseLocationToRun"))) {
 		driver1.quit();
 		}else {
+			 // display all mutations
+	        	        // print all JS errors
+	        for (JavascriptException jsException : jsExceptionsList) {
+	            System.out.println("JS exception message: " + jsException.getMessage());
+	            jsException.printStackTrace();
+	            System.out.println();
+	        }
+
+	        System.out.println("###########################");
+	        System.out.println();
+	        // print all console messages
+	        for (var consoleMessage : consoleMessages) {
+	            System.out.println(consoleMessage);
+	        }
+
+	        // if contains specific message -> fail the test
+//	        if (consoleMessages.contains("jquery-migrate.min.js:2 JQMIGRATE: Migrate is installed, version 3.3.2")) {
+//	            Assertions.fail();
+//	        }
+
+			
 			driver.quit();
 		}
 
@@ -183,7 +216,7 @@ public void reportExecution() {
 			chromePrefs.put("download.default_directory", System.getProperty("user.dir") + File.separator + "DownloadedFile/Destination/");
 			ChromeOptions options = new ChromeOptions();
 			options.setExperimentalOption("prefs", chromePrefs);
-			options.addArguments("--remote-allow-origins=*");
+			//options.addArguments("--remote-allow-origins=*");
 			
 			DesiredCapabilities capabilities = new DesiredCapabilities();
 			capabilities.setBrowserName("chrome");
@@ -218,27 +251,56 @@ public void reportExecution() {
 //			driver.manage().window().maximize();
 			DevTools tools= ((ChromeDriver) driver).getDevTools() ;
 			tools.createSession();
-			tools.getDomains().javascript().pin("notifications","""
-			      function highlight(element){
-			            let defaultBG = element.style.backgroundColor;
-			            let defaultOutline = element.style.outline;
-			            element.style.backgroundColor = '#FDFF47';
-			            element.style.outline = '#f00 solid 2px';
-			        
-			            setTimeout(function()
-			            {
-			                element.style.backgroundColor = defaultBG;
-			                element.style.outline = defaultOutline;
-			            }, 1000);
-			        }
-			        """);
+//			tools.getDomains().javascript().pin("notifications","""
+//			      function highlight(element){
+//			            let defaultBG = element.style.backgroundColor;
+//			            let defaultOutline = element.style.outline;
+//			            element.style.backgroundColor = '#FDFF47';
+//			            element.style.outline = '#f00 solid 2px';
+//			        
+//			            setTimeout(function()
+//			            {
+//			                element.style.backgroundColor = defaultBG;
+//			                element.style.outline = defaultOutline;
+//			            }, 1000);
+//			        }
+//			        """);
+			
+		        mutationsList = Collections.synchronizedList(new ArrayList<>());
+		        ((HasLogEvents)driver).onLogEvent(domMutation(mutation -> {
+		            mutationsList.add(mutation);
+		        }));
+
+		        // configure JS exceptions logging
+		        jsExceptionsList = Collections.synchronizedList(new ArrayList<>());
+		        Consumer<JavascriptException> addEntry = jsExceptionsList::add;
+		        tools.getDomains().events().addJavascriptExceptionListener(addEntry);
+
+		        // configure console messages logging
+		        consoleMessages = Collections.synchronizedList(new ArrayList<>());
+		        tools.send(Log.enable());
+		        tools.addListener(Log.entryAdded(),
+		                logEntry -> {
+		                    consoleMessages.add("log: " + logEntry.getText() + " level: " + logEntry.getLevel());
+		                });
 			
 			var listener = new WebDriverListener() {
 			@Override
 			public void afterAnyWebElementCall(WebElement element, Method method, Object[] args, Object result) {
 				try {
+					for (var mutation:mutationsList) {
+			            var attributeName = Optional.ofNullable(mutation.getAttributeName()).orElse("");            
+			            var oldValue = Optional.ofNullable(mutation.getOldValue()).orElse("");
+			            var currentValue = Optional.ofNullable(mutation.getCurrentValue()).orElse("");
+			            var elementLocation = Optional.ofNullable(mutation.getElement().toString()).orElse("");
+			            System.out.println(String.format(" attr name: %s\n old value = %s\n new value = %s\n element = %s\n\n", attributeName, oldValue, currentValue, elementLocation));
+			        }
+
+			        System.out.println("###########################");
+			        System.out.println();
+
 					highlighElement(element);
-					System.out.println(String.format("%s called for element %s", method.getName(), element.getTagName()));
+					//System.out.println(String.format("%s called for element %s", method.getName(), element.getTagName()));
 					//growlMessage(String.format("%s called for element %s", method.getName(), element.getTagName()));
 				} catch (Exception e) {
 					e.printStackTrace();

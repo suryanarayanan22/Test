@@ -1,0 +1,459 @@
+############### Browser Launch###########
+############### Browser Maximised###########
+The user has entered the URL
+The user has entered the username Christeen Parker I
+The user has entered the password
+The user has logged in
+The dashboard title is displayed
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-input oxd-input--active
+ new value = oxd-input oxd-input--focus
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='civnr12l47ll0q6hov']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: data-v-app
+ old value = null
+ new value = 
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='v7e81fyhbucll0q6ho7']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-input oxd-input--active
+ new value = oxd-input oxd-input--focus
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='ouco526dvcgll0q6ivf']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-input oxd-input--focus
+ new value = oxd-input oxd-input--active
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='civnr12l47ll0q6hov']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: data-v-app
+ old value = null
+ new value = 
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='h9mdcsdj42ll0q6kfq']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = null
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = 300
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = 300
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box; height: 170px;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = 327
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = null
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box; height: 170px; width: 262px;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = 212
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='fxattoab73ell0q6l04']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = null
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='pe3mx0cmdoll0q6l6n']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='pe3mx0cmdoll0q6l6n']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='pe3mx0cmdoll0q6l6n']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = null
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='pe3mx0cmdoll0q6l6n']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='pe3mx0cmdoll0q6l6n']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = 300
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='pe3mx0cmdoll0q6l6n']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = 300
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='pe3mx0cmdoll0q6l6n']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box; height: 265px;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='pe3mx0cmdoll0q6l6n']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='3cj7jv2myw5ll0q6lc3']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = null
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='3cj7jv2myw5ll0q6lc3']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='3cj7jv2myw5ll0q6lc3']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = null
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='3cj7jv2myw5ll0q6lc3']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='3cj7jv2myw5ll0q6lc3']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = 300
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='3cj7jv2myw5ll0q6lc3']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box; height: 265px;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='3cj7jv2myw5ll0q6lc3']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = 300
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (427ec96f471799bd22135c05918f390c)] -> css selector: *[data-__webdriver_id='3cj7jv2myw5ll0q6lc3']]
+
+
+###########################
+
+###########################
+
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-800.woff2 level: info
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2 level: info
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2 level: info
+log: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o level: verbose
+############### Browser Launch###########
+############### Browser Maximised###########
+The user has entered the URL
+The user has entered the username Carter Yost
+The user has entered the password
+The user has logged in
+The dashboard title is displayed
+The user has clicked HRMLogout
+The user has Logout from HRMWebsite
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: data-v-app
+ old value = null
+ new value = 
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='a65rr7mb18all0q6prw']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-input oxd-input--active
+ new value = oxd-input oxd-input--focus
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='w2l3pwgwc9hll0q6psk']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-input oxd-input--focus
+ new value = oxd-input oxd-input--active
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='w2l3pwgwc9hll0q6psk']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-input oxd-input--active
+ new value = oxd-input oxd-input--focus
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='1j54bzs2k0ill0q6qmm']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: data-v-app
+ old value = null
+ new value = 
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='e7vz5a62d5sll0q6sah']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = null
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = null
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box; height: 170px;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = 300
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = 300
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = 212
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = 327
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box; height: 170px; width: 262px;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='pb6cep5p5lill0q6sw0']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = null
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='j4rs2kccqr9ll0q6tgo']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='j4rs2kccqr9ll0q6tgo']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='j4rs2kccqr9ll0q6tgo']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = 300
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='j4rs2kccqr9ll0q6tgo']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='j4rs2kccqr9ll0q6tgo']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box; height: 265px;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='j4rs2kccqr9ll0q6tgo']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = null
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='j4rs2kccqr9ll0q6tgo']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = 300
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='j4rs2kccqr9ll0q6tgo']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='k31tn85leylll0q6tnw']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='k31tn85leylll0q6tnw']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = null
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='k31tn85leylll0q6tnw']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = null
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='k31tn85leylll0q6tnw']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box; height: 265px;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='k31tn85leylll0q6tnw']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='k31tn85leylll0q6tnw']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: height
+ old value = 300
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='k31tn85leylll0q6tnw']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: width
+ old value = 300
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='k31tn85leylll0q6tnw']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-userdropdown
+ new value = --active oxd-userdropdown
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='4qt1i4xalball0q6ttb']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-dropdown-menu transition-fade-down-enter-active
+ new value = oxd-dropdown-menu transition-fade-down-enter-active transition-fade-down-enter-to
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='07hxani7226ull0q6tto']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-dropdown-menu transition-fade-down-enter-from transition-fade-down-enter-active
+ new value = oxd-dropdown-menu transition-fade-down-enter-active transition-fade-down-enter-to
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='07hxani7226ull0q6tto']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-dropdown-menu transition-fade-down-enter-active
+ new value = oxd-dropdown-menu
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='07hxani7226ull0q6tto']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-dropdown-menu transition-fade-down-enter-active transition-fade-down-enter-to
+ new value = oxd-dropdown-menu
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='07hxani7226ull0q6tto']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: class
+ old value = oxd-input oxd-input--active
+ new value = oxd-input oxd-input--focus
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='xg6lqipy7well0q6vvd']]
+
+
+class org.openqa.selenium.devtools.events.DomMutationEvent attr name: data-v-app
+ old value = null
+ new value = 
+ element = [[ChromeDriver: chrome on windows (ae676aa252e999765ea76a0bc740c098)] -> css selector: *[data-__webdriver_id='0v7c9ze3qi3hll0q6vvb']]
+
+
+###########################
+
+###########################
+
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-800.woff2 level: info
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2 level: info
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2 level: info
+log: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o level: verbose
+log: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o level: verbose

@@ -1,0 +1,500 @@
+############### Browser Launch###########
+############### Browser Maximised###########
+The user has entered the URL
+isDisplayed called for element input
+isDisplayed called for element input
+isEnabled called for element input
+clear called for element input
+sendKeys called for element input
+isDisplayed called for element input
+The user has entered the username Odell Bahringer
+isDisplayed called for element input
+isDisplayed called for element input
+isEnabled called for element input
+clear called for element input
+sendKeys called for element input
+isDisplayed called for element input
+The user has entered the password
+isDisplayed called for element button
+isDisplayed called for element button
+isEnabled called for element button
+The user has logged in
+isDisplayed called for element h6
+isDisplayed called for element h6
+The dashboard title is displayed
+attr name: class
+ old value = oxd-input oxd-input--active
+ new value = oxd-input oxd-input--focus
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='8tvbguhbe92ll0p5vc3']]
+
+
+attr name: data-v-app
+ old value = null
+ new value = 
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='6uwlkozef2wll0p5vbd']]
+
+
+attr name: class
+ old value = oxd-input oxd-input--focus
+ new value = oxd-input oxd-input--active
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='8tvbguhbe92ll0p5vc3']]
+
+
+attr name: class
+ old value = oxd-input oxd-input--active
+ new value = oxd-input oxd-input--focus
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='cpq6xtddbell0p5wd4']]
+
+
+attr name: data-v-app
+ old value = null
+ new value = 
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='nhg041ji3gll0p5y4i']]
+
+
+attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: height
+ old value = 212
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box; height: 170px; width: 262px;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box; height: 170px;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: width
+ old value = 327
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: height
+ old value = 300
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: width
+ old value = 300
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: width
+ old value = null
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: height
+ old value = null
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='k7ds2jf7s9ll0p5yxr']]
+
+
+attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='5lafn5i7g8xll0p5z3t']]
+
+
+attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='5lafn5i7g8xll0p5z3t']]
+
+
+attr name: width
+ old value = null
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='5lafn5i7g8xll0p5z3t']]
+
+
+attr name: height
+ old value = null
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='5lafn5i7g8xll0p5z3t']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='5lafn5i7g8xll0p5z3t']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box; height: 265px;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='5lafn5i7g8xll0p5z3t']]
+
+
+attr name: height
+ old value = 300
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='5lafn5i7g8xll0p5z3t']]
+
+
+attr name: width
+ old value = 300
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='5lafn5i7g8xll0p5z3t']]
+
+
+attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='wcbsshv7fpbll0p5z6m']]
+
+
+attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='wcbsshv7fpbll0p5z6m']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='wcbsshv7fpbll0p5z6m']]
+
+
+attr name: height
+ old value = null
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='wcbsshv7fpbll0p5z6m']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box; height: 265px;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='wcbsshv7fpbll0p5z6m']]
+
+
+attr name: height
+ old value = 300
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='wcbsshv7fpbll0p5z6m']]
+
+
+attr name: width
+ old value = null
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='wcbsshv7fpbll0p5z6m']]
+
+
+attr name: width
+ old value = 300
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (a51618abc1356e35ca0413ab6d782e55)] -> css selector: *[data-__webdriver_id='wcbsshv7fpbll0p5z6m']]
+
+
+###########################
+
+###########################
+
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-800.woff2level: info
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2level: info
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2level: info
+log: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %olevel: verbose
+############### Browser Launch###########
+############### Browser Maximised###########
+The user has entered the URL
+isDisplayed called for element input
+isDisplayed called for element input
+isEnabled called for element input
+clear called for element input
+sendKeys called for element input
+isDisplayed called for element input
+The user has entered the username Chaya Spinka
+isDisplayed called for element input
+isDisplayed called for element input
+isEnabled called for element input
+clear called for element input
+sendKeys called for element input
+isDisplayed called for element input
+The user has entered the password
+isDisplayed called for element button
+isDisplayed called for element button
+isEnabled called for element button
+The user has logged in
+isDisplayed called for element h6
+isDisplayed called for element h6
+The dashboard title is displayed
+isDisplayed called for element img
+isDisplayed called for element img
+isEnabled called for element img
+click called for element img
+The user has clicked HRMLogout
+isDisplayed called for element a
+isDisplayed called for element a
+isEnabled called for element a
+The user has Logout from HRMWebsite
+attr name: data-v-app
+ old value = null
+ new value = 
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='vfwk11s5lxll0p62lo']]
+
+
+attr name: class
+ old value = oxd-input oxd-input--active
+ new value = oxd-input oxd-input--focus
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='dvj4b22k3illl0p62mb']]
+
+
+attr name: class
+ old value = oxd-input oxd-input--active
+ new value = oxd-input oxd-input--focus
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='qu2jc33626nll0p63g0']]
+
+
+attr name: class
+ old value = oxd-input oxd-input--focus
+ new value = oxd-input oxd-input--active
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='dvj4b22k3illl0p62mb']]
+
+
+attr name: data-v-app
+ old value = null
+ new value = 
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='hvwa49eox5bll0p650w']]
+
+
+attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: height
+ old value = null
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: width
+ old value = null
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box; height: 170px;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: width
+ old value = 300
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box; height: 170px; width: 262px;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: height
+ old value = 300
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: height
+ old value = 212
+ new value = 212
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: width
+ old value = 327
+ new value = 337
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 170px; width: 270px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='k3phku31ndll0p65ke']]
+
+
+attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='wqf4cl0idmill0p65sk']]
+
+
+attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='wqf4cl0idmill0p65sk']]
+
+
+attr name: width
+ old value = null
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='wqf4cl0idmill0p65sk']]
+
+
+attr name: height
+ old value = null
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='wqf4cl0idmill0p65sk']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='wqf4cl0idmill0p65sk']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box; height: 265px;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='wqf4cl0idmill0p65sk']]
+
+
+attr name: height
+ old value = 300
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='wqf4cl0idmill0p65sk']]
+
+
+attr name: width
+ old value = 300
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='wqf4cl0idmill0p65sk']]
+
+
+attr name: style
+ old value = display: block;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='3alpnjrabmall0p65ua']]
+
+
+attr name: style
+ old value = null
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='3alpnjrabmall0p65ua']]
+
+
+attr name: width
+ old value = null
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='3alpnjrabmall0p65ua']]
+
+
+attr name: height
+ old value = null
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='3alpnjrabmall0p65ua']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='3alpnjrabmall0p65ua']]
+
+
+attr name: style
+ old value = display: block; box-sizing: border-box; height: 265px;
+ new value = display: block; box-sizing: border-box; height: 265px; width: 302px;
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='3alpnjrabmall0p65ua']]
+
+
+attr name: height
+ old value = 300
+ new value = 331
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='3alpnjrabmall0p65ua']]
+
+
+attr name: width
+ old value = 300
+ new value = 377
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='3alpnjrabmall0p65ua']]
+
+
+attr name: class
+ old value = oxd-userdropdown
+ new value = --active oxd-userdropdown
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='c0kl1akw5jwll0p668k']]
+
+
+attr name: class
+ old value = oxd-dropdown-menu transition-fade-down-enter-from transition-fade-down-enter-active
+ new value = oxd-dropdown-menu transition-fade-down-enter-active transition-fade-down-enter-to
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='2oz5m7f9fegll0p669e']]
+
+
+attr name: class
+ old value = oxd-dropdown-menu transition-fade-down-enter-active
+ new value = oxd-dropdown-menu transition-fade-down-enter-active transition-fade-down-enter-to
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='2oz5m7f9fegll0p669e']]
+
+
+attr name: class
+ old value = oxd-dropdown-menu transition-fade-down-enter-active
+ new value = oxd-dropdown-menu
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='2oz5m7f9fegll0p669e']]
+
+
+attr name: class
+ old value = oxd-dropdown-menu transition-fade-down-enter-active transition-fade-down-enter-to
+ new value = oxd-dropdown-menu
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='2oz5m7f9fegll0p669e']]
+
+
+attr name: data-v-app
+ old value = null
+ new value = 
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='u0pgrpohuzfll0p67w5']]
+
+
+attr name: class
+ old value = oxd-input oxd-input--active
+ new value = oxd-input oxd-input--focus
+ element = [[ChromeDriver: chrome on windows (c143a785cafcc842193dad9217d683f4)] -> css selector: *[data-__webdriver_id='g1xtt25oxxrll0p67w7']]
+
+
+###########################
+
+###########################
+
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2level: info
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-800.woff2level: info
+log: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2level: info
+log: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %olevel: verbose
+log: [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %olevel: verbose
